@@ -112,12 +112,3 @@ Feel free to reach out with any questions, comments, or feedback!
 This README provides an overview of your **Frontend Developer Tasks**, gives step-by-step instructions for running the project locally, and outlines the tools and libraries used. It also includes explanations for any key design and implementation choices.
 
 ---
-
-### Steps to Create the README:
-
-1. Open your **project folder**.
-2. Create a new file named **`README.md`**.
-3. **Copy-paste** the content above into your **`README.md`** file.
-4. **Save the file**, and you're all set!
-
-Let me know if you'd like any additions or modifications to this! 😊
