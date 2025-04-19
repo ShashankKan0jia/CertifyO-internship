@@ -99,9 +99,6 @@ This project contains multiple tasks designed to showcase your skills in fronten
 - **Responsiveness**: Ensured that both the navigation bar and the image gallery are fully responsive.
 - **Modularity**: The code is organized into different tasks and components, making it easy to follow and modify.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Questions & Feedback
 
